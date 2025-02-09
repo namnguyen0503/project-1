@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    height: 150px;
+    background-color: cyan;
+    overflow: auto;
+    flex-direction: column;
+}
+.box{
+    background-color: blue;
+    border: 1px solid black;
+    flex-basis: 20%; 
+    
+}
+.box:nth-of-type(1){
+
+}

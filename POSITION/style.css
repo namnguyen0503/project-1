@@ -1,0 +1,35 @@
+.box{
+    color: white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
+}
+.content{
+    background-color: pink;
+
+    height: 200px;
+
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: yellow;
+    
+
+    
+}
+.box3{
+    background-color: green;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+h1{
+    background-color: purple;
+
+}

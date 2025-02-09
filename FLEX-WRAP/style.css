@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background-color: cyan;
+    flex-wrap: wrap;
+    align-content: center;
+
+    height: 100px;
+    flex-direction: row-reverse;
+}
+.box{
+    width: 30%;
+    background-color: blue;
+    border: 1px solid black;
+}

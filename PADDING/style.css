@@ -1,0 +1,14 @@
+.box{
+    background-color: #d5ddcd;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 10px solid #5d2384;
+    
+}
+.box2{
+    margin-left: 160px;
+}
+.box3{
+    margin-left: 320px;
+}

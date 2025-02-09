@@ -1,0 +1,18 @@
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    
+    border: 0px solid black;
+    border-radius: 50%;
+    background-color: pink;
+    box-sizing: border-box;
+    padding: 20px;
+    display: inline-block;
+    margin: 1px;
+}
+a:hover{
+    background-color: red;
+    color: blue;
+}

@@ -1,0 +1,12 @@
+html{
+    --box-color: pink;
+}
+.box1{
+    color: var(--box-color);
+}
+.box2{
+    color: var(--box-color);
+}
+.box3{
+    color: var(--box-color);
+}

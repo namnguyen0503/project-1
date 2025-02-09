@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/f8/Elysia-chlorotica-body.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    width: 800px;
+    height: 800px;
+    margin: 20rem 30rem 0rem 30rem;
+    background-color: rgba(128, 128, 128, 0.269);
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(10px);
+}

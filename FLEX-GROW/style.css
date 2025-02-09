@@ -1,0 +1,17 @@
+.container{
+    background-color: blue;
+    display: flex;
+
+
+}
+.box{
+    background-color: cyan;
+    border: 2px solid white;
+    width: 30%;
+}
+.box:nth-of-type(2){
+    background-color: cyan;
+}
+.box:nth-of-type(4){
+    flex-shrink: 1;
+}

@@ -1,0 +1,13 @@
+body img{       
+    padding: 0;
+    max-width: 100px;
+    margin: -10px;
+    border: 2px solid black;
+    border-radius: 100%;
+    display: inline-block;
+}
+body img[src="./avatar/123.jpg"]{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}

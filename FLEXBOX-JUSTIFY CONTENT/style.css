@@ -1,0 +1,16 @@
+.bigbox{
+    display: flex;
+    background-color: blue;
+    justify-content: space-around;
+    color: red;
+    font-size: 100px;
+    height: 500px;
+    align-items: center;
+}
+.box{
+    background-color: aquamarine;
+}
+.box1{
+
+
+}
